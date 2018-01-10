@@ -8,3 +8,5 @@ You can find the dataset which was used in this project from here:
 - http://vis-www.cs.umass.edu/lfw/lfw-deepfunneled.tgz
 - http://vis-www.cs.umass.edu/lfw/lfw.tgz
 
+Here is the result after 15000 iterations(it took about 6 hours in my computer):
+![Result]( Generative-Adverasial-Network/index.png )

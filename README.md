@@ -11,4 +11,4 @@ You can find the dataset which was used in this project from here:
 Here is the result after 15000 iterations(it took about 6 hours in my computer):
 ![Result](https://github.com/tvthanh95/Generative-Adverasial-Network/blob/master/index.png)
 
-The result isn't great because the model of generator is too simple and I didn't use some powerful techniques(batch norm or dropout).
+The result isn't great because the model of generator is too simple(due to limition of my computer memory) and I didn't use some powerful techniques(batch norm or dropout).
